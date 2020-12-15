@@ -2,7 +2,7 @@
 
 Source code and raw data of learning curves for AAAI 2021 paper - 《Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction》
 
-## *To-do
+## *To-Do
 
 -  ArXiv version will be available soon.
 -  Codes for VD-DQN, n-step DDPG will be added soon.
