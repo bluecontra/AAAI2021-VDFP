@@ -3,7 +3,7 @@
 This is the official implementation of our work
 [Foresee then Evaluate: Decomposing Value Estimation with Latent Future Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/17182) accepted on AAAI 2021.
 
-This repo is also centrally maintained in [TJU AI Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer/tree/main/self-supervised-rl/RL_with_Other_Representations/VDFP).
+This repo is also maintained in [TJU AI Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer/tree/main/self-supervised-rl/RL_with_Other_Representations/VDFP) with a systematic collection.
 
 
 ## Introduction  
